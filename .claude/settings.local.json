@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find G:Devhyperplan -type f \\\\\\(-name *.pen -o -name *design* -o -name *component* -o -name *style* -o -name *theme* -o -name *.config.* \\\\\\))",
+      "Bash(find G:Devhyperplan -maxdepth 4 -type f \\\\\\(-name *.json -o -name *.config.* \\\\\\) ! -path */node_modules/* ! -path */dist/*)",
+      "Bash(find G:Devhyperplan -maxdepth 2 -type d ! -path */node_modules/*)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}

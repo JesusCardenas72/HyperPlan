@@ -1,0 +1,5 @@
+{
+  "name": "HyperPlan - Planificador de Hipertrofia",
+  "description": "Planificador avanzado de entrenamiento con sobrecarga progresiva, soporte para superseries y seguimiento de fatiga.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,6 @@
+{
+  "appId": "com.hyperplan.app",
+  "appName": "HyperPlan",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
